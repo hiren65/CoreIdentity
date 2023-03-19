@@ -9,5 +9,6 @@ Steps
 - Register AddDbContext in services (ApplicationDbContext ) and add Identity IdentityUser, IdentityRole
 - Add-migration AddIdentityTables for Create data table in sql server that creates script to create Data tables in sql server 
 - Now Update-Database Migration to create / Update Data base
+- Create AccountController and View Register.cshtml 
 
 
